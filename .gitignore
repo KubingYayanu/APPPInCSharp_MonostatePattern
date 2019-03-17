@@ -1,0 +1,7 @@
+APPPInCSharp_MonostatePattern.Console/bin/
+APPPInCSharp_MonostatePattern.Console/obj/
+APPPInCSharp_MonostatePattern.UnitTests/bin/
+APPPInCSharp_MonostatePattern.UnitTests/obj/
+packages/NUnit.3.11.0/.signature.p7s
+packages/
+.vs/

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APPPInCSharp_MonostatePattern.Console", "APPPInCSharp_MonostatePattern.Console\APPPInCSharp_MonostatePattern.Console.csproj", "{AE0DF376-C419-4DD0-9F0B-FFF9CA55C808}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APPPInCSharp_MonostatePattern.UnitTests", "APPPInCSharp_MonostatePattern.UnitTests\APPPInCSharp_MonostatePattern.UnitTests.csproj", "{AB8F98E1-2160-450D-B81D-4C77E4749102}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE0DF376-C419-4DD0-9F0B-FFF9CA55C808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE0DF376-C419-4DD0-9F0B-FFF9CA55C808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE0DF376-C419-4DD0-9F0B-FFF9CA55C808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE0DF376-C419-4DD0-9F0B-FFF9CA55C808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB8F98E1-2160-450D-B81D-4C77E4749102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB8F98E1-2160-450D-B81D-4C77E4749102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB8F98E1-2160-450D-B81D-4C77E4749102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB8F98E1-2160-450D-B81D-4C77E4749102}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
